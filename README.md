@@ -1,2 +1,2 @@
 # finacial_asset
-Financial_Assets_Investment
+Financial_Assets_Investment using Streamlit application
